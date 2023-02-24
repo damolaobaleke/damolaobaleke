@@ -7,11 +7,13 @@
 
 ### Software Engineer (Full-stack 💻 & Android)📱
 
+- 💼 BackEnd & Reliability Engineer @NewYork Times
+
 - 👾 I’m currently working on a video streaming platform
-- 🧠   Check out my portfolio: <a href="https://damolaobaleke.softroniiks.com">damolaobaleke<a/>
-- 🌱 I’m currently learning Terraform & Kubernetes
+- 🧠 <a href="https://damolaobaleke.softroniiks.com">damolaobaleke<a/>
+- 🌱 Learning Terraform & Kubernetes
 - 🌍 I’m from Nigeria but based in Los Angeles, CA.
-- 📫 How to reach me: damolaobaleke@gmail.com || damolaobaleke@softroniiks.com
+- 📫 Reach me: damolaobaleke@gmail.com
 
 #### Badges 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damolaobaleke&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
