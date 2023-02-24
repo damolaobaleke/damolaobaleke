@@ -1,16 +1,20 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" width="250"/>
+</div>
 
-<!--
-**damolaobaleke/damolaobaleke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi my name is Damola Obaleke 👋🏾
 
-Here are some ideas to get you started:
+#### Software Engineer (Full-stack 💻 & Android)📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👾 I’m currently working on a video streaming platform
+- 🧠   Check out my portfolio: <a href="https://damolaobaleke.softroniiks.com">damolaobaleke<a/>
+- 🌱 I’m currently learning Terraform & Kubernetes
+- 🌍 I’m from Nigeria but based in Los Angeles, CA.
+- 📫 How to reach me: damolaobaleke@gmail.com || damolaobaleke@softroniiks.com
+
+#### Badges
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=damolaobaleke&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=damolaobaleke&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
