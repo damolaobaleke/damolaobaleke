@@ -9,7 +9,7 @@
 
 - 💼 Backend Engineer & Reliability @The New York Times
 
-- 👾 I’m currently working on a video streaming platform
+- 👾 I’m currently working on a video streaming platform and LLMs
 - 🧠 <a href="https://damolaobaleke.softroniiks.com" target="_blank">damolaobaleke<a/><---><a href="https://stackoverflow.com/users/8537792/damola-obaleke" target="_blank"> stackoverflow/damolaobaleke<a/>
 - 🌱 Learning Jetpack Compose & Kubernetes
 - 🌍 I’m from Nigeria but based in Los Angeles, CA.
